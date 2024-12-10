@@ -1,0 +1,167 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+#loremimg {
+    border-radius: 33.185px;
+    background: url(../images/image.png) lightgray 50% / cover no-repeat;
+    width: 900px;
+    height: 374px;
+    background-size: cover;
+    padding: 39px 71px;
+    margin: 0 auto;
+    margin-top: 90px;
+}
+
+#loremText {
+    width: 600px;
+    margin: 0 auto;
+    color: white;
+    font-size: 20px;
+}
+
+#mainfirstdiv {
+    width: 1137px;
+
+    margin: 0 auto;
+    margin-top: 100px;
+    padding: 40px 32px;
+    border-radius: 24px;
+    background: #EBF8FE;
+}
+
+#firsttext {
+    color: #181D27;
+    margin: 0 auto;
+    font-size: 64px;
+
+}
+
+#buildingText {
+    color: #535862;
+    margin-top: 24px;
+    font-size: 32px;
+}
+
+#formmaindiv {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#emailmain {
+    max-width: 100%;
+    width: ;
+    text-align: center;
+    padding: var(--spacing-lg, 12px) 14px;
+}
+
+#emailinput {
+    border-radius: var(--radius-md, 8px);
+    border: 1px solid #D5D7DA;
+    background: #FFF;
+    padding: 12px 14px;
+}
+
+#button {
+    width: 119px;
+    color: white;
+    background-color: #007cbb;
+    border: none;
+    padding: 12px 18px;
+    border-radius: 8px;
+    margin-left: 24px;
+    vertical-align: top;
+}
+
+
+#subscribe {
+    margin-left: 24px;
+    display: inline-block;
+}
+
+#careabout_p {
+    color: #535862;
+    font-size: 12px;
+    margin-top: 8px;
+}
+
+#submitdiv {
+    display: inline-block;
+    width: 546px;
+    padding: 40px 32px;
+    align-items: start;
+    border-radius: 24px;
+    background: #EBF8FE;
+}
+
+#divthird {
+    max-width: 546px;
+    padding: 40px 32px;
+    background-color: #ebf8fe;
+    border-radius: 24px;
+    margin: 0 auto;
+    margin-top: 72px;
+}
+
+#secondtitle {
+    color: #181D27;
+    font-size: 40px;
+    margin-bottom: 24px;
+}
+
+#name {
+    background-color: #EBF8FE;
+    padding: 8px 16px;
+    align-items: center;
+    border-radius: 8px;
+    border: 1px solid #380054;
+    width: 482px;
+    margin-top: 8px;
+}
+
+#labelsecond {
+    color: #1b003d;
+    margin-top: 24px;
+}
+
+#emaill {
+    background-color: #EBF8FE;
+    padding: 8px 16px;
+    align-items: center;
+    border-radius: 8px;
+    border: 1px solid #380054;
+    width: 482px;
+    margin-top: 8px;
+}
+
+#nameInput {
+    margin-bottom: 24px;
+}
+
+#radio {
+    margin-top: 24px;
+}
+
+#radioone {
+    vertical-align: middle;
+}
+
+#mainradioone {
+    margin-top: 7px;
+}
+
+#mainradiosecond {
+    margin-top: 10px;
+}
+
+#checkboxone {
+    vertical-align: middle;
+}
+#titlecheckbox {
+    margin-top: 24px;
+}
+
