@@ -142,26 +142,55 @@
     margin-bottom: 24px;
 }
 
-#radio {
+#radio_box {
     margin-top: 24px;
+    max-width: 338px;
 }
 
-#radioone {
-    vertical-align: middle;
+#radio_text {
+    font-size: 14px;
 }
 
-#mainradioone {
+#radio_boxone {
     margin-top: 7px;
 }
 
-#mainradiosecond {
+#radio_boxtwo {
     margin-top: 10px;
 }
 
-#checkboxone {
-    vertical-align: middle;
+#radio_boxthree {
+    margin-top: 10px;
 }
-#titlecheckbox {
+
+#labelradioone,
+#labelradiotwo,
+#labelradiothree {
+    margin-left: 11px;
+}
+
+#maincheckboxone {
+    max-width: 371px;
     margin-top: 24px;
 }
 
+#checkbox_text {
+    font-size: 14px;
+}
+
+#checkboxone {
+    margin-top: 7px;
+}
+
+#checkboxtwo,
+#checkboxthree,
+#checkboxfour {
+    margin-top: 10px;
+}
+
+#labelcheckboxone,
+#labelcheckboxtwo,
+#labelcheckboxthree,
+#labelcheckboxfour {
+    margin-left: 11px;
+}
